@@ -1,11 +1,11 @@
-# Hand-Gestures-Recognition-ASL
+# Hand-Gestures-Recognition-ISL
 
 
 ![ASL TEST](test.jpeg)
 
 ## Project Features.
 
-- Detects and recgnize real time American sign language 1-10 Signs .
+- Detects and recgnize real time Indian sign language 1-10 Signs .
 
 ## Prerequisites
 
