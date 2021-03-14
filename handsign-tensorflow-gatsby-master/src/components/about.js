@@ -31,7 +31,7 @@ export default function About() {
               <Text fontSize="sm">Indian Sign Language (ISL) is a visual language that serves as the predominant sign language of Deaf communities in the India.<br></br>
           Here's the list of ISL hand gestures for alphabet.</Text>
           <Image src={handImages}/>
-          //<Text fontSize="sm">This sign language illustration is created by <Link href="https://thenounproject.com/pelodrome/" isExternal color="orange.300">Pelin Kahraman</Link></Text>
+          
             
           </ModalBody>
           <ModalFooter>
