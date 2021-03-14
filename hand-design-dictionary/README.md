@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://handsign-m4qq6.ondigitalocean.app/">
+  <a href="https://data-driven-accessible-system.vercel.app/">
     <img alt="Handsign logo" src="./src/images/loveyou_emoji.svg" width="80" />
   </a>
 </p>
@@ -13,7 +13,7 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 `#dohackathon` `#madewithTFJS`
 
 
-## [See Demo](https://sign-language-computation.vercel.app/)
+## [See Demo](https://data-driven-accessible-system.vercel.app/)
 
 # Installation
 1. **Clone the repository**
@@ -21,7 +21,7 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
   ```shell
   # copy the repo to your machine
 
-  git clone https://github.com/TeamCeltz/Data_driven_accessible_system.git
+  git clone https://github.com/MThakkar121/Data_driven_accessible_system.git
   ```
 
 2. **Start the project**
