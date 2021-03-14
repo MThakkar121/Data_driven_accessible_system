@@ -5,16 +5,15 @@
   </a>
 </p>
 <h1 align="center">
-  Handsign - ASL Hand Gesture Detection Using TensorFlow
+  Handsign - ISL Hand Gesture Detection Using TensorFlow
 </h1>
 
 Handsign is a simple AI-based hand gesture recognition that translates a hand pose into the American Sign Language (ASL) alphabet. Using Tensorflow JS and its Handpose preloaded model to detect the hand object and its parts. Handsign also uses an additional library called Fingerpose to classify certain of custom hand gestures based on the finger position.
 
 `#dohackathon` `#madewithTFJS`
 
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
 
-## [See Demo](https://handsign-m4qq6.ondigitalocean.app/)
+## [See Demo](https://sign-language-computation.vercel.app/)
 
 # Installation
 1. **Clone the repository**
@@ -22,7 +21,7 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
   ```shell
   # copy the repo to your machine
 
-  git clone https://github.com/syauqy/handsign-tensorflow-gatsby.git
+  git clone https://github.com/TeamCeltz/Data_driven_accessible_system.git
   ```
 
 2. **Start the project**
@@ -85,7 +84,9 @@ If you want to learn more about Tensorflow JS and custom gesture handpose, pleas
 
 
 
-# Deploy to your site
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/syauqy/handsign-tensorflow-gatsby/tree/master&refcode=a9cb43de523c)
+# Deploy your site
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
+(https://vercel.com/docs)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
